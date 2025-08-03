@@ -1,6 +1,9 @@
 NAME:NIYOMUGABO Nice Kevin
+
 ID: 26708
+
 Course: Introduction to Big data
+
 📘 Project Overview
 This project analyzes the impact of sustainable fisheries on Tanzania's GDP using big data analytics techniques. The study examines trends in sustainable fisheries as a percentage share of GDP from 2014 to 2022, providing insights into the economic significance of sustainable fishing practices in Tanzania's economy.
 
