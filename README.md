@@ -100,6 +100,11 @@ OUT PUT
 <img width="725" height="263" alt="photo 4" src="https://github.com/user-attachments/assets/650160d8-e3ec-4a1b-9d6f-29278ca1e41f" />
 <img width="595" height="314" alt="photo 5" src="https://github.com/user-attachments/assets/538acf44-f99a-4a45-a839-54f52d377419" />
 
+  powerBI
+  <img width="950" height="468" alt="photo 7" src="https://github.com/user-attachments/assets/d88896c8-2981-4558-9588-0e2c912e98c8" />
+
+Google Colab link:https://colab.research.google.com/drive/1umdE9lohoHS-qCdXbe3XgTfqKaXef1Tl?authuser=0#scrollTo=tCv3KQDmDZl4
+
 📞 Contact & Support
 Author: [Niyomugabo Nice Kevin]
 Email: [nicekevinniyomugabo@gmail.com]
